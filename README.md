@@ -9,4 +9,7 @@
 - 💬 Ask me about learning together
 - 📫 How to reach me: paulhana6006@gmail.com
 - 😄 Pronouns: RGRG
-- ⚡ Fun fact: i was studied english for 13 years but i can't well hahaha
+
+### Some fun facts:
+
+⚡ update soon
