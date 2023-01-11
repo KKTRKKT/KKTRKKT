@@ -1,6 +1,6 @@
 ### Hi there 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKTRKKT&show_icons=true&theme=github_dark)
+![KKTRKKT's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KKTRKKT&count_private=true&show_icons=true&theme=github_dark)
 
 - 🔭 I’m currently working on everywhere
 - 🌱 I’m currently learning the java
